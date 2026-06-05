@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#2f6f63">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Animal Parade">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <title>Animal Parade</title>
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="icon" href="./assets/icon-192.png">
+    <link rel="apple-touch-icon" href="./assets/icon-192.png">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar" aria-label="Animal Parade">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">AP</div>
+          <div class="brand-copy">
+            <h1>Animal Parade</h1>
+            <p id="animal-count">Loading animals</p>
+          </div>
+        </div>
+
+        <div class="toolbar" aria-label="App controls">
+          <button class="tool-button" id="favorites-only" type="button" aria-pressed="false" title="Favorites">
+            <i data-lucide="heart" aria-hidden="true"></i>
+            <span>Favorites</span>
+          </button>
+          <button class="tool-button" id="open-big-picture" type="button" title="Big picture">
+            <i data-lucide="maximize-2" aria-hidden="true"></i>
+            <span>Big Picture</span>
+          </button>
+          <button class="icon-button" id="sound-toggle" type="button" aria-pressed="true" title="Sound on">
+            <i data-lucide="volume-2" aria-hidden="true"></i>
+            <span class="sr-only">Sound on</span>
+          </button>
+        </div>
+      </header>
+
+      <nav class="filters" id="filters" aria-label="Animal groups"></nav>
+
+      <main class="content">
+        <section class="gallery" id="gallery" aria-label="Animal pictures"></section>
+      </main>
+
+      <footer class="source-note">
+        Photos are bundled for offline use from Wikipedia and Wikimedia Commons.
+      </footer>
+    </div>
+
+    <div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-labelledby="viewer-title" hidden>
+      <div class="viewer-surface">
+        <header class="viewer-bar">
+          <button class="icon-button" id="close-viewer" type="button" title="Close">
+            <i data-lucide="x" aria-hidden="true"></i>
+            <span class="sr-only">Close</span>
+          </button>
+
+          <div class="viewer-title-block">
+            <p id="viewer-category"></p>
+            <h2 id="viewer-title">Animal</h2>
+          </div>
+
+          <button class="icon-button" id="viewer-favorite" type="button" aria-pressed="false" title="Favorite">
+            <i data-lucide="heart" aria-hidden="true"></i>
+            <span class="sr-only">Favorite</span>
+          </button>
+        </header>
+
+        <div class="viewer-photo-frame" id="viewer-photo-frame">
+          <button class="viewer-nav left" id="previous-animal" type="button" title="Previous animal">
+            <i data-lucide="chevron-left" aria-hidden="true"></i>
+            <span class="sr-only">Previous animal</span>
+          </button>
+
+          <img id="viewer-photo" alt="">
+          <div class="viewer-loading" id="viewer-loading">Loading photo</div>
+
+          <button class="viewer-nav right" id="next-animal" type="button" title="Next animal">
+            <i data-lucide="chevron-right" aria-hidden="true"></i>
+            <span class="sr-only">Next animal</span>
+          </button>
+        </div>
+
+        <footer class="viewer-actions">
+          <button class="tool-button" id="speak-animal" type="button" title="Say animal name">
+            <i data-lucide="volume-2" aria-hidden="true"></i>
+            <span>Say Name</span>
+          </button>
+          <button class="tool-button" id="shuffle-animal" type="button" title="Shuffle">
+            <i data-lucide="shuffle" aria-hidden="true"></i>
+            <span>Shuffle</span>
+          </button>
+          <a class="source-link" id="viewer-source" href="#" target="_blank" rel="noreferrer">Source</a>
+        </footer>
+      </div>
+    </div>
+
+    <noscript>
+      <p class="noscript">Animal Parade needs JavaScript to load the animal pictures.</p>
+    </noscript>
+
+    <script defer src="./animal-assets.js"></script>
+    <script defer src="./app.js"></script>
+  </body>
+</html>
