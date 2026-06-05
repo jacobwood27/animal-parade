@@ -21,7 +21,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "ferret-5": {
     "src": "./assets/animals/ferret-5.webp",
-    "source": "https://en.wikipedia.org/wiki/Ferret"
+    "source": "https://commons.wikimedia.org/wiki/File:Mustela_putorius_furo.jpg"
   },
   "goldfish-6": {
     "src": "./assets/animals/goldfish-6.webp",
@@ -125,7 +125,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "jaguar-31": {
     "src": "./assets/animals/jaguar-31.webp",
-    "source": "https://en.wikipedia.org/wiki/Jaguar"
+    "source": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_female_Piquiri_River_2.JPG"
   },
   "snow-leopard-32": {
     "src": "./assets/animals/snow-leopard-32.webp",
@@ -165,7 +165,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "giraffe-41": {
     "src": "./assets/animals/giraffe-41.webp",
-    "source": "https://en.wikipedia.org/wiki/Giraffe"
+    "source": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_angolensis.jpg"
   },
   "zebra-42": {
     "src": "./assets/animals/zebra-42.webp",
@@ -173,11 +173,11 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "rhinoceros-43": {
     "src": "./assets/animals/rhinoceros-43.webp",
-    "source": "https://en.wikipedia.org/wiki/Rhinoceros"
+    "source": "https://commons.wikimedia.org/wiki/File:Northern_White_Rhinoceros_Angalifu.jpg"
   },
   "hippopotamus-44": {
     "src": "./assets/animals/hippopotamus-44.webp",
-    "source": "https://en.wikipedia.org/wiki/Hippopotamus"
+    "source": "https://commons.wikimedia.org/wiki/File:Hippopotamus_@_Barcelona_zoo.jpg"
   },
   "kangaroo-45": {
     "src": "./assets/animals/kangaroo-45.webp",
@@ -205,7 +205,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "moose-51": {
     "src": "./assets/animals/moose-51.webp",
-    "source": "https://en.wikipedia.org/wiki/Moose"
+    "source": "https://commons.wikimedia.org/wiki/File:Moose_in_Grand_Teton_National_Park_3_(8007698498).jpg"
   },
   "bison-52": {
     "src": "./assets/animals/bison-52.webp",
@@ -225,11 +225,11 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "lemur-56": {
     "src": "./assets/animals/lemur-56.webp",
-    "source": "https://en.wikipedia.org/wiki/Lemur"
+    "source": "https://commons.wikimedia.org/wiki/File:Katta_Lemur_catta.jpg"
   },
   "hyena-57": {
     "src": "./assets/animals/hyena-57.webp",
-    "source": "https://en.wikipedia.org/wiki/Hyena"
+    "source": "https://commons.wikimedia.org/wiki/File:Sitting_Spotted_Hyena_Luangwa_Jul23_A7C_06239.jpg"
   },
   "warthog-58": {
     "src": "./assets/animals/warthog-58.webp",
@@ -245,7 +245,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "deer-61": {
     "src": "./assets/animals/deer-61.webp",
-    "source": "https://en.wikipedia.org/wiki/Deer"
+    "source": "https://commons.wikimedia.org/wiki/File:RedDeerStag.jpg"
   },
   "elk-62": {
     "src": "./assets/animals/elk-62.webp",
@@ -261,7 +261,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "porcupine-65": {
     "src": "./assets/animals/porcupine-65.webp",
-    "source": "https://en.wikipedia.org/wiki/Porcupine"
+    "source": "https://commons.wikimedia.org/wiki/File:Porcupine_NPS11952.jpg"
   },
   "hedgehog-66": {
     "src": "./assets/animals/hedgehog-66.webp",
@@ -269,7 +269,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "squirrel-67": {
     "src": "./assets/animals/squirrel-67.webp",
-    "source": "https://en.wikipedia.org/wiki/Squirrel"
+    "source": "https://commons.wikimedia.org/wiki/File:Eastern_Grey_Squirrel_in_St_James%27s_Park,_London_-_Nov_2006_edit.jpg"
   },
   "chipmunk-68": {
     "src": "./assets/animals/chipmunk-68.webp",
@@ -297,11 +297,11 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "seal-74": {
     "src": "./assets/animals/seal-74.webp",
-    "source": "https://en.wikipedia.org/wiki/Pinniped"
+    "source": "https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina).jpg"
   },
   "sea-lion-75": {
     "src": "./assets/animals/sea-lion-75.webp",
-    "source": "https://en.wikipedia.org/wiki/Sea_lion"
+    "source": "https://commons.wikimedia.org/wiki/File:California_sea_lion_in_La_Jolla_(70568).jpg"
   },
   "walrus-76": {
     "src": "./assets/animals/walrus-76.webp",
@@ -329,7 +329,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "hammerhead-shark-82": {
     "src": "./assets/animals/hammerhead-shark-82.webp",
-    "source": "https://en.wikipedia.org/wiki/Hammerhead_shark"
+    "source": "https://commons.wikimedia.org/wiki/File:Hammerhead_Shark_-_Marko_Dimitrijevic.jpg"
   },
   "whale-shark-83": {
     "src": "./assets/animals/whale-shark-83.webp",
@@ -373,7 +373,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "shrimp-93": {
     "src": "./assets/animals/shrimp-93.webp",
-    "source": "https://en.wikipedia.org/wiki/Shrimp"
+    "source": "https://commons.wikimedia.org/wiki/File:Lysmata_amboinensis_Shrimp.jpg"
   },
   "sea-urchin-94": {
     "src": "./assets/animals/sea-urchin-94.webp",
@@ -381,7 +381,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "eel-95": {
     "src": "./assets/animals/eel-95.webp",
-    "source": "https://en.wikipedia.org/wiki/Eel"
+    "source": "https://commons.wikimedia.org/wiki/File:Moray_eel.jpg"
   },
   "nudibranch-96": {
     "src": "./assets/animals/nudibranch-96.webp",
@@ -409,11 +409,11 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "toucan-102": {
     "src": "./assets/animals/toucan-102.webp",
-    "source": "https://en.wikipedia.org/wiki/Toucan"
+    "source": "https://commons.wikimedia.org/wiki/File:Toco_toucan_(Ramphastos_toco)_close-up.jpg"
   },
   "hummingbird-103": {
     "src": "./assets/animals/hummingbird-103.webp",
-    "source": "https://en.wikipedia.org/wiki/Hummingbird"
+    "source": "https://commons.wikimedia.org/wiki/File:Colibr%C3%AD_Cola_de_Oro_(Golden-tailed_Sapphire_Hummingbird)_Bigger_File.jpg"
   },
   "kingfisher-104": {
     "src": "./assets/animals/kingfisher-104.webp",
@@ -425,7 +425,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "ostrich-106": {
     "src": "./assets/animals/ostrich-106.webp",
-    "source": "https://en.wikipedia.org/wiki/Ostrich"
+    "source": "https://commons.wikimedia.org/wiki/File:Ostrich_in_safari.jpg"
   },
   "emu-107": {
     "src": "./assets/animals/emu-107.webp",
@@ -437,7 +437,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "macaw-109": {
     "src": "./assets/animals/macaw-109.webp",
-    "source": "https://en.wikipedia.org/wiki/Macaw"
+    "source": "https://commons.wikimedia.org/wiki/File:Red-and-green_macaw_(Ara_chloropterus)_juvenile.JPG"
   },
   "robin-110": {
     "src": "./assets/animals/robin-110.webp",
@@ -461,7 +461,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "heron-115": {
     "src": "./assets/animals/heron-115.webp",
-    "source": "https://en.wikipedia.org/wiki/Heron"
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg"
   },
   "crane-116": {
     "src": "./assets/animals/crane-116.webp",
@@ -481,7 +481,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "alligator-120": {
     "src": "./assets/animals/alligator-120.webp",
-    "source": "https://en.wikipedia.org/wiki/Alligator"
+    "source": "https://commons.wikimedia.org/wiki/File:Alligator_mississippiensis_yawn.jpg"
   },
   "komodo-dragon-121": {
     "src": "./assets/animals/komodo-dragon-121.webp",
@@ -493,7 +493,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "iguana-123": {
     "src": "./assets/animals/iguana-123.webp",
-    "source": "https://en.wikipedia.org/wiki/Iguana"
+    "source": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_01.jpg"
   },
   "gecko-124": {
     "src": "./assets/animals/gecko-124.webp",
@@ -521,11 +521,11 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "bearded-dragon-130": {
     "src": "./assets/animals/bearded-dragon-130.webp",
-    "source": "https://en.wikipedia.org/wiki/Pogona"
+    "source": "https://commons.wikimedia.org/wiki/File:Pogona_vitticeps_2009_G1.jpg"
   },
   "monitor-lizard-131": {
     "src": "./assets/animals/monitor-lizard-131.webp",
-    "source": "https://en.wikipedia.org/wiki/Monitor_lizard"
+    "source": "https://commons.wikimedia.org/wiki/File:Nile_monitor_lizard_(Varanus_niloticus).jpg"
   },
   "tegu-132": {
     "src": "./assets/animals/tegu-132.webp",
@@ -553,7 +553,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "poison-dart-frog-138": {
     "src": "./assets/animals/poison-dart-frog-138.webp",
-    "source": "https://en.wikipedia.org/wiki/Poison_dart_frog"
+    "source": "https://commons.wikimedia.org/wiki/File:Dendrobates_azureus_(Dendrobates_tinctorius)_Edit.jpg"
   },
   "tree-frog-139": {
     "src": "./assets/animals/tree-frog-139.webp",
@@ -597,7 +597,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "beetle-149": {
     "src": "./assets/animals/beetle-149.webp",
-    "source": "https://en.wikipedia.org/wiki/Beetle"
+    "source": "https://commons.wikimedia.org/wiki/File:Lucanus_cervus_ed.JPG"
   },
   "ant-150": {
     "src": "./assets/animals/ant-150.webp",
@@ -621,7 +621,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "spider-155": {
     "src": "./assets/animals/spider-155.webp",
-    "source": "https://en.wikipedia.org/wiki/Spider"
+    "source": "https://commons.wikimedia.org/wiki/File:Phidippus_audax_male.jpg"
   },
   "scorpion-156": {
     "src": "./assets/animals/scorpion-156.webp",
@@ -629,11 +629,11 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "centipede-157": {
     "src": "./assets/animals/centipede-157.webp",
-    "source": "https://en.wikipedia.org/wiki/Centipede"
+    "source": "https://commons.wikimedia.org/wiki/File:Scolopendra_gigantea.jpg"
   },
   "millipede-158": {
     "src": "./assets/animals/millipede-158.webp",
-    "source": "https://en.wikipedia.org/wiki/Millipede"
+    "source": "https://commons.wikimedia.org/wiki/File:Archispirostreptus_gigas_2009_G1.jpg"
   },
   "snail-159": {
     "src": "./assets/animals/snail-159.webp",
@@ -645,7 +645,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "platypus-161": {
     "src": "./assets/animals/platypus-161.webp",
-    "source": "https://en.wikipedia.org/wiki/Platypus"
+    "source": "https://commons.wikimedia.org/wiki/File:Platypus_BrokenRiver_QLD_Australia2.png"
   },
   "echidna-162": {
     "src": "./assets/animals/echidna-162.webp",
@@ -657,7 +657,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "pangolin-164": {
     "src": "./assets/animals/pangolin-164.webp",
-    "source": "https://en.wikipedia.org/wiki/Pangolin"
+    "source": "https://commons.wikimedia.org/wiki/File:Manis_tetradactyla_(29645778336).jpg"
   },
   "aardvark-165": {
     "src": "./assets/animals/aardvark-165.webp",
@@ -673,7 +673,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "tapir-168": {
     "src": "./assets/animals/tapir-168.webp",
-    "source": "https://en.wikipedia.org/wiki/Tapir"
+    "source": "https://commons.wikimedia.org/wiki/File:Malayan_Tapir.JPG"
   },
   "wombat-169": {
     "src": "./assets/animals/wombat-169.webp",
@@ -705,7 +705,7 @@ globalThis.ANIMAL_IMAGE_ASSETS = {
   },
   "sugar-glider-176": {
     "src": "./assets/animals/sugar-glider-176.webp",
-    "source": "https://en.wikipedia.org/wiki/Sugar_glider"
+    "source": "https://commons.wikimedia.org/wiki/File:Sugar_Glider_(Petaurus_breviceps).jpg"
   },
   "tasmanian-devil-177": {
     "src": "./assets/animals/tasmanian-devil-177.webp",

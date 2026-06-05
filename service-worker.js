@@ -1,6 +1,6 @@
 importScripts("./animal-assets.js");
 
-const CACHE_NAME = "animal-parade-v3";
+const CACHE_NAME = "animal-parade-v4";
 const APP_SHELL = [
   "./",
   "./index.html",

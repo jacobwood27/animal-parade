@@ -9,7 +9,7 @@ Photos are sourced from Wikipedia and Wikimedia Commons page images, then optimi
 | Rabbit | https://en.wikipedia.org/wiki/Rabbit |
 | Guinea Pig | https://en.wikipedia.org/wiki/Guinea_pig |
 | Hamster | https://en.wikipedia.org/wiki/Hamster |
-| Ferret | https://en.wikipedia.org/wiki/Ferret |
+| Ferret | https://commons.wikimedia.org/wiki/File:Mustela_putorius_furo.jpg |
 | Goldfish | https://en.wikipedia.org/wiki/Goldfish |
 | Budgie | https://en.wikipedia.org/wiki/Budgerigar |
 | Parrot | https://en.wikipedia.org/wiki/Parrot |
@@ -35,7 +35,7 @@ Photos are sourced from Wikipedia and Wikimedia Commons page images, then optimi
 | Tiger | https://en.wikipedia.org/wiki/Tiger |
 | Cheetah | https://en.wikipedia.org/wiki/Cheetah |
 | Leopard | https://en.wikipedia.org/wiki/Leopard |
-| Jaguar | https://en.wikipedia.org/wiki/Jaguar |
+| Jaguar | https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_female_Piquiri_River_2.JPG |
 | Snow Leopard | https://en.wikipedia.org/wiki/Snow_leopard |
 | Wolf | https://en.wikipedia.org/wiki/Wolf |
 | Red Fox | https://en.wikipedia.org/wiki/Red_fox |
@@ -45,48 +45,48 @@ Photos are sourced from Wikipedia and Wikimedia Commons page images, then optimi
 | Giant Panda | https://en.wikipedia.org/wiki/Giant_panda |
 | Red Panda | https://en.wikipedia.org/wiki/Red_panda |
 | Elephant | https://en.wikipedia.org/wiki/African_bush_elephant |
-| Giraffe | https://en.wikipedia.org/wiki/Giraffe |
+| Giraffe | https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_angolensis.jpg |
 | Zebra | https://en.wikipedia.org/wiki/Zebra |
-| Rhinoceros | https://en.wikipedia.org/wiki/Rhinoceros |
-| Hippopotamus | https://en.wikipedia.org/wiki/Hippopotamus |
+| Rhinoceros | https://commons.wikimedia.org/wiki/File:Northern_White_Rhinoceros_Angalifu.jpg |
+| Hippopotamus | https://commons.wikimedia.org/wiki/File:Hippopotamus_@_Barcelona_zoo.jpg |
 | Kangaroo | https://en.wikipedia.org/wiki/Kangaroo |
 | Koala | https://en.wikipedia.org/wiki/Koala |
 | Sloth | https://en.wikipedia.org/wiki/Sloth |
 | Meerkat | https://en.wikipedia.org/wiki/Meerkat |
 | Otter | https://en.wikipedia.org/wiki/Otter |
 | Beaver | https://en.wikipedia.org/wiki/Beaver |
-| Moose | https://en.wikipedia.org/wiki/Moose |
+| Moose | https://commons.wikimedia.org/wiki/File:Moose_in_Grand_Teton_National_Park_3_(8007698498).jpg |
 | Bison | https://en.wikipedia.org/wiki/Bison |
 | Gorilla | https://en.wikipedia.org/wiki/Gorilla |
 | Chimpanzee | https://en.wikipedia.org/wiki/Chimpanzee |
 | Orangutan | https://en.wikipedia.org/wiki/Orangutan |
-| Lemur | https://en.wikipedia.org/wiki/Lemur |
-| Hyena | https://en.wikipedia.org/wiki/Hyena |
+| Lemur | https://commons.wikimedia.org/wiki/File:Katta_Lemur_catta.jpg |
+| Hyena | https://commons.wikimedia.org/wiki/File:Sitting_Spotted_Hyena_Luangwa_Jul23_A7C_06239.jpg |
 | Warthog | https://en.wikipedia.org/wiki/Warthog |
 | Wildebeest | https://en.wikipedia.org/wiki/Wildebeest |
 | Gazelle | https://en.wikipedia.org/wiki/Gazelle |
-| Deer | https://en.wikipedia.org/wiki/Deer |
+| Deer | https://commons.wikimedia.org/wiki/File:RedDeerStag.jpg |
 | Elk | https://en.wikipedia.org/wiki/Elk |
 | Badger | https://en.wikipedia.org/wiki/Badger |
 | Skunk | https://en.wikipedia.org/wiki/Skunk |
-| Porcupine | https://en.wikipedia.org/wiki/Porcupine |
+| Porcupine | https://commons.wikimedia.org/wiki/File:Porcupine_NPS11952.jpg |
 | Hedgehog | https://en.wikipedia.org/wiki/Hedgehog |
-| Squirrel | https://en.wikipedia.org/wiki/Squirrel |
+| Squirrel | https://commons.wikimedia.org/wiki/File:Eastern_Grey_Squirrel_in_St_James%27s_Park,_London_-_Nov_2006_edit.jpg |
 | Chipmunk | https://en.wikipedia.org/wiki/Chipmunk |
 | Bat | https://en.wikipedia.org/wiki/Bat |
 | Dolphin | https://en.wikipedia.org/wiki/Dolphin |
 | Orca | https://en.wikipedia.org/wiki/Orca |
 | Humpback Whale | https://en.wikipedia.org/wiki/Humpback_whale |
 | Blue Whale | https://en.wikipedia.org/wiki/Blue_whale |
-| Seal | https://en.wikipedia.org/wiki/Pinniped |
-| Sea Lion | https://en.wikipedia.org/wiki/Sea_lion |
+| Seal | https://commons.wikimedia.org/wiki/File:Common_seal_(Phoca_vitulina).jpg |
+| Sea Lion | https://commons.wikimedia.org/wiki/File:California_sea_lion_in_La_Jolla_(70568).jpg |
 | Walrus | https://en.wikipedia.org/wiki/Walrus |
 | Sea Otter | https://en.wikipedia.org/wiki/Sea_otter |
 | Manatee | https://en.wikipedia.org/wiki/Manatee |
 | Sea Turtle | https://en.wikipedia.org/wiki/Green_sea_turtle |
 | Clownfish | https://en.wikipedia.org/wiki/Clownfish |
 | Great White Shark | https://en.wikipedia.org/wiki/Great_white_shark |
-| Hammerhead Shark | https://en.wikipedia.org/wiki/Hammerhead_shark |
+| Hammerhead Shark | https://commons.wikimedia.org/wiki/File:Hammerhead_Shark_-_Marko_Dimitrijevic.jpg |
 | Whale Shark | https://en.wikipedia.org/wiki/Whale_shark |
 | Manta Ray | https://en.wikipedia.org/wiki/Manta_ray |
 | Stingray | https://en.wikipedia.org/wiki/Stingray |
@@ -97,52 +97,52 @@ Photos are sourced from Wikipedia and Wikimedia Commons page images, then optimi
 | Starfish | https://en.wikipedia.org/wiki/Starfish |
 | Crab | https://en.wikipedia.org/wiki/Crab |
 | Lobster | https://en.wikipedia.org/wiki/Lobster |
-| Shrimp | https://en.wikipedia.org/wiki/Shrimp |
+| Shrimp | https://commons.wikimedia.org/wiki/File:Lysmata_amboinensis_Shrimp.jpg |
 | Sea Urchin | https://en.wikipedia.org/wiki/Sea_urchin |
-| Eel | https://en.wikipedia.org/wiki/Eel |
+| Eel | https://commons.wikimedia.org/wiki/File:Moray_eel.jpg |
 | Nudibranch | https://en.wikipedia.org/wiki/Nudibranch |
 | Eagle | https://en.wikipedia.org/wiki/Bald_eagle |
 | Owl | https://en.wikipedia.org/wiki/Owl |
 | Flamingo | https://en.wikipedia.org/wiki/Flamingo |
 | Peacock | https://en.wikipedia.org/wiki/Peafowl |
 | Swan | https://en.wikipedia.org/wiki/Swan |
-| Toucan | https://en.wikipedia.org/wiki/Toucan |
-| Hummingbird | https://en.wikipedia.org/wiki/Hummingbird |
+| Toucan | https://commons.wikimedia.org/wiki/File:Toco_toucan_(Ramphastos_toco)_close-up.jpg |
+| Hummingbird | https://commons.wikimedia.org/wiki/File:Colibr%C3%AD_Cola_de_Oro_(Golden-tailed_Sapphire_Hummingbird)_Bigger_File.jpg |
 | Kingfisher | https://en.wikipedia.org/wiki/Kingfisher |
 | Puffin | https://en.wikipedia.org/wiki/Puffin |
-| Ostrich | https://en.wikipedia.org/wiki/Ostrich |
+| Ostrich | https://commons.wikimedia.org/wiki/File:Ostrich_in_safari.jpg |
 | Emu | https://en.wikipedia.org/wiki/Emu |
 | Pelican | https://en.wikipedia.org/wiki/Pelican |
-| Macaw | https://en.wikipedia.org/wiki/Macaw |
+| Macaw | https://commons.wikimedia.org/wiki/File:Red-and-green_macaw_(Ara_chloropterus)_juvenile.JPG |
 | Robin | https://en.wikipedia.org/wiki/American_robin |
 | Cardinal | https://en.wikipedia.org/wiki/Northern_cardinal |
 | Woodpecker | https://en.wikipedia.org/wiki/Woodpecker |
 | Penguin | https://en.wikipedia.org/wiki/Penguin |
 | Albatross | https://en.wikipedia.org/wiki/Albatross |
-| Heron | https://en.wikipedia.org/wiki/Heron |
+| Heron | https://commons.wikimedia.org/wiki/File:Great_Blue_Heron_(Ardea_herodias),_hunting.jpg |
 | Crane | https://en.wikipedia.org/wiki/Crane_(bird) |
 | Stork | https://en.wikipedia.org/wiki/Stork |
 | Kiwi | https://en.wikipedia.org/wiki/Kiwi_(bird) |
 | Crocodile | https://en.wikipedia.org/wiki/Crocodile |
-| Alligator | https://en.wikipedia.org/wiki/Alligator |
+| Alligator | https://commons.wikimedia.org/wiki/File:Alligator_mississippiensis_yawn.jpg |
 | Komodo Dragon | https://en.wikipedia.org/wiki/Komodo_dragon |
 | Chameleon | https://en.wikipedia.org/wiki/Chameleon |
-| Iguana | https://en.wikipedia.org/wiki/Iguana |
+| Iguana | https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_01.jpg |
 | Gecko | https://en.wikipedia.org/wiki/Gecko |
 | Cobra | https://en.wikipedia.org/wiki/Cobra |
 | Python | https://en.wikipedia.org/wiki/Pythonidae |
 | Rattlesnake | https://en.wikipedia.org/wiki/Rattlesnake |
 | Anaconda | https://en.wikipedia.org/wiki/Anaconda |
 | Gila Monster | https://en.wikipedia.org/wiki/Gila_monster |
-| Bearded Dragon | https://en.wikipedia.org/wiki/Pogona |
-| Monitor Lizard | https://en.wikipedia.org/wiki/Monitor_lizard |
+| Bearded Dragon | https://commons.wikimedia.org/wiki/File:Pogona_vitticeps_2009_G1.jpg |
+| Monitor Lizard | https://commons.wikimedia.org/wiki/File:Nile_monitor_lizard_(Varanus_niloticus).jpg |
 | Tegu | https://en.wikipedia.org/wiki/Tegu |
 | Frog | https://en.wikipedia.org/wiki/Frog |
 | Toad | https://en.wikipedia.org/wiki/Toad |
 | Salamander | https://en.wikipedia.org/wiki/Salamander |
 | Axolotl | https://en.wikipedia.org/wiki/Axolotl |
 | Newt | https://en.wikipedia.org/wiki/Newt |
-| Poison Dart Frog | https://en.wikipedia.org/wiki/Poison_dart_frog |
+| Poison Dart Frog | https://commons.wikimedia.org/wiki/File:Dendrobates_azureus_(Dendrobates_tinctorius)_Edit.jpg |
 | Tree Frog | https://en.wikipedia.org/wiki/Hylidae |
 | Caecilian | https://en.wikipedia.org/wiki/Caecilian |
 | Butterfly | https://en.wikipedia.org/wiki/Butterfly |
@@ -153,26 +153,26 @@ Photos are sourced from Wikipedia and Wikimedia Commons page images, then optimi
 | Dragonfly | https://en.wikipedia.org/wiki/Dragonfly |
 | Grasshopper | https://en.wikipedia.org/wiki/Grasshopper |
 | Praying Mantis | https://en.wikipedia.org/wiki/Mantis |
-| Beetle | https://en.wikipedia.org/wiki/Beetle |
+| Beetle | https://commons.wikimedia.org/wiki/File:Lucanus_cervus_ed.JPG |
 | Ant | https://en.wikipedia.org/wiki/Ant |
 | Firefly | https://en.wikipedia.org/wiki/Firefly |
 | Stick Insect | https://en.wikipedia.org/wiki/Phasmatodea |
 | Cicada | https://en.wikipedia.org/wiki/Cicada |
 | Tarantula | https://en.wikipedia.org/wiki/Tarantula |
-| Spider | https://en.wikipedia.org/wiki/Spider |
+| Spider | https://commons.wikimedia.org/wiki/File:Phidippus_audax_male.jpg |
 | Scorpion | https://en.wikipedia.org/wiki/Scorpion |
-| Centipede | https://en.wikipedia.org/wiki/Centipede |
-| Millipede | https://en.wikipedia.org/wiki/Millipede |
+| Centipede | https://commons.wikimedia.org/wiki/File:Scolopendra_gigantea.jpg |
+| Millipede | https://commons.wikimedia.org/wiki/File:Archispirostreptus_gigas_2009_G1.jpg |
 | Snail | https://en.wikipedia.org/wiki/Snail |
 | Earthworm | https://en.wikipedia.org/wiki/Earthworm |
-| Platypus | https://en.wikipedia.org/wiki/Platypus |
+| Platypus | https://commons.wikimedia.org/wiki/File:Platypus_BrokenRiver_QLD_Australia2.png |
 | Echidna | https://en.wikipedia.org/wiki/Echidna |
 | Armadillo | https://en.wikipedia.org/wiki/Armadillo |
-| Pangolin | https://en.wikipedia.org/wiki/Pangolin |
+| Pangolin | https://commons.wikimedia.org/wiki/File:Manis_tetradactyla_(29645778336).jpg |
 | Aardvark | https://en.wikipedia.org/wiki/Aardvark |
 | Anteater | https://en.wikipedia.org/wiki/Anteater |
 | Capybara | https://en.wikipedia.org/wiki/Capybara |
-| Tapir | https://en.wikipedia.org/wiki/Tapir |
+| Tapir | https://commons.wikimedia.org/wiki/File:Malayan_Tapir.JPG |
 | Wombat | https://en.wikipedia.org/wiki/Wombat |
 | Quokka | https://en.wikipedia.org/wiki/Quokka |
 | Narwhal | https://en.wikipedia.org/wiki/Narwhal |
@@ -180,7 +180,7 @@ Photos are sourced from Wikipedia and Wikimedia Commons page images, then optimi
 | Proboscis Monkey | https://en.wikipedia.org/wiki/Proboscis_monkey |
 | Slow Loris | https://en.wikipedia.org/wiki/Slow_loris |
 | Kinkajou | https://en.wikipedia.org/wiki/Kinkajou |
-| Sugar Glider | https://en.wikipedia.org/wiki/Sugar_glider |
+| Sugar Glider | https://commons.wikimedia.org/wiki/File:Sugar_Glider_(Petaurus_breviceps).jpg |
 | Tasmanian Devil | https://en.wikipedia.org/wiki/Tasmanian_devil |
 | Kakapo | https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D |
 | Shoebill | https://en.wikipedia.org/wiki/Shoebill |
